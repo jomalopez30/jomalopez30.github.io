@@ -1,0 +1,95 @@
+body
+{background-image: url(img/Xscapefound.webp);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.arriba
+{
+width: 100%;
+height: 25%;
+background-color: rgba(0, 0, 0, 0.35);
+border: 3px solid rgb(10, 26, 49);
+text-align: center;
+font-family: Helvetica, sans-serif;
+color: rgb(142, 145, 147);
+margin: 0 auto;
+}
+
+.header
+{
+    background-color: rgb(53, 53, 54);
+    height: 30%;
+    width: 25%;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+}
+
+.logo
+{
+    float: right;
+    margin-top: 3%;
+    margin-right: 2%;
+    margin-bottom: 10px;
+}
+
+.centro
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(img/centroimage.webp);
+    opacity: 0.80;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    border: 3px solid whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.izq
+{
+height: 100%;
+background-color: rgba(61, 61, 57, 0.35);
+float: left;
+margin-right: 2px;
+margin-left: 2px;
+}
+
+.history
+{
+    color: rgb(173, 172, 172);
+    text-align: center;
+}
+
+.mid
+{
+    height: 100%;
+    background-color: rgba(108, 104, 104, 0.35);
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.der
+{
+    height: 100%;
+    background-color: rgba(65, 67, 67, 0.35);
+    float: right;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.abajo
+{
+    width: 100%;
+    height: 20%;
+    background-color: rgba(0, 0, 0, 0.35);
+    border: 3px solid rgb(5, 5, 30);
+}
+
+.under
+{
+    color: rgb(181, 186, 191);
+    float: left;
+    margin-left: 10px;
+}
